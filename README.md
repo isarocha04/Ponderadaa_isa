@@ -27,12 +27,20 @@ Este repositório tem testes de interface do usuário (UI, como vimos na aula) a
 
  Esse teste verifica se a página principal da Steam carrega corretamente e se o logo está visível.
 
-PRINT PRINT PRINT PRINTPRINT PRINTPRINT PRINTPRINT PRINTPRINT PRINTPRINT PRINT 
+
+<img width="426" alt="Captura de Tela 2024-09-10 às 10 49 54" src="https://github.com/user-attachments/assets/b0ced53a-e640-4c94-bf3f-fd1b8130a15d">
+
 
 ##### 2.2. Teste de Pesquisa de Jogo
  Esse teste  busca o jogo “Cyberpunk 2077” e valida se os resultados são carregados de forma correta.
  
- PRINT PRINT PRINT PRINTPRINT PRINTPRINT PRINTPRINT PRINTPRINT PRINTPRINT PRINT 
+
+
+<img width="430" alt="Captura de Tela 2024-09-10 às 10 50 16" src="https://github.com/user-attachments/assets/4eb78d2a-556e-46f8-b2f4-d6b2d445d019">
+
+<img width="397" alt="Captura de Tela 2024-09-10 às 10 50 36" src="https://github.com/user-attachments/assets/b622cbae-9cab-424c-b9d8-66c0527a6def">
+
+
 
 ### 3. Comentários e TDD 
 
